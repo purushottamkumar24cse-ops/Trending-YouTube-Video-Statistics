@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" role="img" aria-label="Median views versus engagement by country">
+<rect width="1000" height="590" rx="22" fill="#f8fafc"/>
+<text x="36" y="48" fill="#102340" font-family="Arial,sans-serif" font-size="29" font-weight="700">Views vs. engagement by country</text>
+<text x="36" y="75" fill="#64748b" font-family="Arial,sans-serif" font-size="15">Each dot is one country; median metrics across cleaned video-day observations</text>
+<line x1="130" y1="500" x2="890" y2="500" stroke="#e2e8f0"/><text x="115" y="505" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#64748b">0%</text>
+<line x1="130" y1="120" x2="130" y2="500" stroke="#e2e8f0"/><text x="130" y="522" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#64748b">0k</text>
+<line x1="130" y1="426.9230769230769" x2="890" y2="426.9230769230769" stroke="#e2e8f0"/><text x="115" y="431.9230769230769" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#64748b">1%</text>
+<line x1="268.1818181818182" y1="120" x2="268.1818181818182" y2="500" stroke="#e2e8f0"/><text x="268.1818181818182" y="522" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#64748b">200k</text>
+<line x1="130" y1="353.84615384615387" x2="890" y2="353.84615384615387" stroke="#e2e8f0"/><text x="115" y="358.84615384615387" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#64748b">2%</text>
+<line x1="406.3636363636364" y1="120" x2="406.3636363636364" y2="500" stroke="#e2e8f0"/><text x="406.3636363636364" y="522" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#64748b">400k</text>
+<line x1="130" y1="280.76923076923083" x2="890" y2="280.76923076923083" stroke="#e2e8f0"/><text x="115" y="285.76923076923083" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#64748b">3%</text>
+<line x1="544.5454545454545" y1="120" x2="544.5454545454545" y2="500" stroke="#e2e8f0"/><text x="544.5454545454545" y="522" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#64748b">600k</text>
+<line x1="130" y1="207.69230769230774" x2="890" y2="207.69230769230774" stroke="#e2e8f0"/><text x="115" y="212.69230769230774" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#64748b">4%</text>
+<line x1="682.7272727272727" y1="120" x2="682.7272727272727" y2="500" stroke="#e2e8f0"/><text x="682.7272727272727" y="522" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#64748b">800k</text>
+<line x1="130" y1="134.61538461538464" x2="890" y2="134.61538461538464" stroke="#e2e8f0"/><text x="115" y="139.61538461538464" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#64748b">5%</text>
+<line x1="820.9090909090909" y1="120" x2="820.9090909090909" y2="500" stroke="#e2e8f0"/><text x="820.9090909090909" y="522" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#64748b">1000k</text>
+<text x="510" y="558" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#334155">Median views per observation</text>
+<text x="33" y="310" text-anchor="middle" transform="rotate(-90 33 310)" font-family="Arial,sans-serif" font-size="16" fill="#334155">Median engagement</text>
+<circle cx="386.5" cy="283.5" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="394.5" y="269.5" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">CA</text>
+<circle cx="212.4" cy="263.5" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="220.4" y="248.5" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">DE</text>
+<circle cx="180.9" cy="241.7" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="166.9" y="227.7" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">FR</text>
+<circle cx="807.0" cy="279.5" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="815.0" y="265.5" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">GB</text>
+<circle cx="317.0" cy="423.1" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="325.0" y="409.1" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">IN</text>
+<circle cx="167.2" cy="400.2" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="175.2" y="386.2" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">JP</text>
+<circle cx="204.8" cy="397.3" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="212.8" y="383.3" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">KR</text>
+<circle cx="169.2" cy="251.7" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="182.2" y="237.7" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">MX</text>
+<circle cx="175.7" cy="163.3" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="187.7" y="149.3" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">RU</text>
+<circle cx="600.5" cy="265.9" r="8" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<text x="608.5" y="287.9" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#102340">US</text>
+<text x="36" y="580" font-family="Arial,sans-serif" fill="#64748b" font-size="12">Engagement = (likes + comments) / views · historical sample</text></svg>
