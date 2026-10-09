@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" role="img" aria-label="Trending observations by country">
+<rect width="1000" height="570" rx="22" fill="#f8fafc"/>
+<text x="36" y="48" fill="#102340" font-family="Arial,sans-serif" font-size="29" font-weight="700">Trending observations by country</text>
+<text x="36" y="75" fill="#64748b" font-family="Arial,sans-serif" font-size="15">Number of cleaned video-day records</text>
+<line x1="235" y1="105" x2="235" y2="497" stroke="#e2e8f0" stroke-width="1"/><text x="235" y="523" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#64748b">0</text>
+<line x1="391.25" y1="105" x2="391.25" y2="497" stroke="#e2e8f0" stroke-width="1"/><text x="391.25" y="523" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#64748b">12,065</text>
+<line x1="547.5" y1="105" x2="547.5" y2="497" stroke="#e2e8f0" stroke-width="1"/><text x="547.5" y="523" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#64748b">24,130</text>
+<line x1="703.75" y1="105" x2="703.75" y2="497" stroke="#e2e8f0" stroke-width="1"/><text x="703.75" y="523" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#64748b">36,196</text>
+<line x1="860" y1="105" x2="860" y2="497" stroke="#e2e8f0" stroke-width="1"/><text x="860" y="523" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#64748b">48,261</text>
+<text x="219" y="134" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">United States</text>
+<rect x="235" y="116" width="529.66" height="24" rx="5" fill="#0f766e"/>
+<text x="772.7" y="134" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#102340">40,899</text>
+<text x="219" y="173" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">Canada</text>
+<rect x="235" y="155" width="529.43" height="24" rx="5" fill="#3884d9"/>
+<text x="772.4" y="173" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">40,881</text>
+<text x="219" y="212" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">Germany</text>
+<rect x="235" y="194" width="528.90" height="24" rx="5" fill="#3884d9"/>
+<text x="771.9" y="212" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">40,840</text>
+<text x="219" y="251" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">France</text>
+<rect x="235" y="233" width="527.39" height="24" rx="5" fill="#3884d9"/>
+<text x="770.4" y="251" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">40,724</text>
+<text x="219" y="290" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">Russia</text>
+<rect x="235" y="272" width="526.94" height="24" rx="5" fill="#3884d9"/>
+<text x="769.9" y="290" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">40,689</text>
+<text x="219" y="329" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">Mexico</text>
+<rect x="235" y="311" width="523.21" height="24" rx="5" fill="#3884d9"/>
+<text x="766.2" y="329" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">40,401</text>
+<text x="219" y="368" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">United Kingdom</text>
+<rect x="235" y="350" width="501.73" height="24" rx="5" fill="#3884d9"/>
+<text x="744.7" y="368" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">38,742</text>
+<text x="219" y="407" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">India</text>
+<rect x="235" y="389" width="423.56" height="24" rx="5" fill="#3884d9"/>
+<text x="666.6" y="407" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">32,706</text>
+<text x="219" y="446" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">South Korea</text>
+<rect x="235" y="428" width="416.73" height="24" rx="5" fill="#3884d9"/>
+<text x="659.7" y="446" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">32,179</text>
+<text x="219" y="485" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#334155">Japan</text>
+<rect x="235" y="467" width="189.74" height="24" rx="5" fill="#3884d9"/>
+<text x="432.7" y="485" font-family="Arial,sans-serif" font-size="13" font-weight="500" fill="#102340">14,651</text>
+<text x="36" y="552" font-family="Arial,sans-serif" fill="#64748b" font-size="12">Historical YouTube trending video-day observations · Nov 2017–Jun 2018</text></svg>
