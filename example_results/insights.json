@@ -1,0 +1,11 @@
+{
+  "insights": [
+    "**Entertainment** was the most common category: 104,363 observations.",
+    "**United Kingdom (GB)** had the highest median views (979,917).",
+    "**89.1%** of records were observed within 0–7 days of publication.",
+    "**Russia (RU)** had the highest median engagement: 4.61%.",
+    "**Japan (JP)** had the largest comments-disabled percentage: 6.73%."
+  ],
+  "pct_within_7_days": 89.12332649595271,
+  "top_category": "Entertainment"
+}
