@@ -96,3 +96,24 @@ Country observations are not necessarily comparable in coverage. Data is video-d
 ```powershell
 py -m unittest discover -s tests -v
 ```
+
+## Preview charts
+
+These six SVG previews summarize the uploaded historical dataset. The Python script itself generates **nine** detailed PNG charts under `results/charts/` when you run it with the original CSV and JSON files.
+
+![Cleaned trending observations by country](docs/charts/01_observations_by_country.svg)
+
+![Median video views by country](docs/charts/02_median_views_by_country.svg)
+
+![Median engagement by country](docs/charts/03_median_engagement_by_country.svg)
+
+![Comments disabled by country](docs/charts/04_comments_disabled_by_country.svg)
+
+![Extreme metrics flag rate by country](docs/charts/05_extreme_metrics_by_country.svg)
+
+![Median views versus engagement](docs/charts/06_views_vs_engagement.svg)
+
+The example country metrics are in [example_results/country_summary.csv](example_results/country_summary.csv), with observations and insights in [example_results/Short_Insights_Report.md](example_results/Short_Insights_Report.md).
+
+**Dataset notice:** The raw and cleaned CSV datasets are intentionally not committed because they are large. Add the original 10 country CSVs and 10 category JSONs to the local `data/` directory to reproduce the entire analysis. This is a historical 2017–2018 dataset, not current YouTube statistics.
+
